@@ -5,6 +5,6 @@ I'm a passionate Backend Developer with a strong foundation in software engineer
 ### 🔧 Skills & Technologies
 - Programming Languages
 ![C++](https://github.com/isocpp/logos/blob/master/cpp_logo.png)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C#]()
