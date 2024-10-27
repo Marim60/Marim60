@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hi I'm Mariam Shehab 👋
 
-<!--
-**Marim60/Marim60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Backend Developer with a strong foundation in software engineering and a recent graduate in Computer Science. My journey in tech is fueled by my curiosity and drive to continuously learn and improve.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying in faculty of Computers and Artificial intelligence 
-- 🌱 I’m currently learning backend using ASP.net core
-- 👯 I’m looking to collaborate on real world projects
-- 🤔 I’m looking for help with develop by skills in backend
-- 📫 How to reach me: mariamshehab32@gmail.com
--->
+##🔧 Skills & Technologies
+Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#]()
