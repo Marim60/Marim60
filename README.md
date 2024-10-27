@@ -25,7 +25,7 @@ statistics for a large dataset.
 ## 🧩 Continuous Learning
 I’m always seeking new opportunities to expand my knowledge.
 ## 💬 Let's Connect!
-GitHub: [https://github.com/Marim60]
-LinkedIn: [https://www.linkedin.com/in/mariam-shehab-3693b0199/]
-Upwork: [https://www.upwork.com/freelancers/~0103c6b56c4bdbc243]
+- GitHub: [https://github.com/Marim60]
+- LinkedIn: [https://www.linkedin.com/in/mariam-shehab-3693b0199/]
+- Upwork: [https://www.upwork.com/freelancers/~0103c6b56c4bdbc243]
 
