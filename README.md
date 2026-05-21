@@ -23,6 +23,7 @@ multiplication, prime number counting, message encryption, pi calculation, and c
 statistics for a large dataset.
 
 ## 🎓 Experience & Learning
+- Junior Software Enginner at Intalio (December 2024) present.
 - Completed ITI Summer Training (2023), focusing on ASP.NET Core MVC, SQL Server, and Entity Framework Core.
 ## 🧩 Continuous Learning
 I’m always seeking new opportunities to expand my knowledge.
