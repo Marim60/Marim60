@@ -1,6 +1,8 @@
 ### Hi I'm Mariam Shehab 👋
 
-I'm a passionate Backend Developer with a strong foundation in software engineering and a recent graduate in Computer Science. My journey in tech is fueled by my curiosity and drive to continuously learn and improve.
+I am a Junior Software Engineer with +1 year of experience focused on backend development using ASP.NET Core, C#, and SQL Server.
+I build REST APIs, handle database operations, and work on building clean, maintainable systems. I have a good understanding of OOP principles and backend architecture. I also have basic experience with frontend technologies.
+I’m interested in opportunities where I can grow as a backend developer and work on real systems.
 
 ## 🔧 Skills & Technologies
 - Programming Languages: Java, C#, Pyhton, C/C++
